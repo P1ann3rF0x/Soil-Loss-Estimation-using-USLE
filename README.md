@@ -199,9 +199,6 @@ python scripts/usle_factors/calculate_ls_factor.py
    - Continuous monitoring systems
 
 
-### Institution
-**Department of Civil Engineering**  
-Indian Institute of Technology, Roorkee - 247667, India
 
 ## 🙏 Acknowledgments
 
